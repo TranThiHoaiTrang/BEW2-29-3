@@ -1,0 +1,22 @@
+{		
+	name: "TranThiHoaiTrang/BEW2-29-3",		
+	description: "Create text",		
+	keywords: [		
+	],		
+	authors: [		
+	{		
+	name: "TranThiHoaiTrang",		
+	email: "TranThiHoaiTrang@gmail.com",		
+	homepage: "http://TranThiHoaiTrang"		
+	}		
+	],		
+	license: "MIT",		
+	require: {		
+	},		
+	autoload: {		
+	psr-4: {		
+	TranThiHoaiTrang\\BEW2\\: "/"		
+	}		
+	},		
+	minimum-stability: "dev"		
+	}
