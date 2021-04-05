@@ -16,5 +16,5 @@
             "tranthihoaitrang\\bew2\\": "/" }
         },
         "minimum-stability": "dev"
-    }
-"require": {"sinhvien2/demo": "*"},
+    },
+"require": {"thaithimytien/backend-web2": "*"}
