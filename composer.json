@@ -17,3 +17,4 @@
         },
         "minimum-stability": "dev"
     }
+"require": {"sinhvien2/demo": "*"},
