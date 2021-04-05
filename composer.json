@@ -15,6 +15,7 @@
         "psr-4": {
             "tranthihoaitrang\\bew2\\": "/" }
         },
-        "minimum-stability": "dev"
-    },
-"require": {"thaithimytien/backend-web2": "*"}
+        "minimum-stability": "dev",
+
+	"require": {"thaithimytien/backend-web2": "*"}
+ }
